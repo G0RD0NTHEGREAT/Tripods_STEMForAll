@@ -8,7 +8,7 @@ Run the following command
 `git clone https://github.com/G0RD0NTHEGREAT/Tripods_STEMForAll.git`
 
 #### 2. Start in Jupyter Notebook
-`cd Tripods_STEMForAll/`
-`cd project_1`
+`cd Tripods_STEMForAll/`  
+`cd project_1`  
 `jupyter notebook`
 
