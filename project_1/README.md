@@ -14,6 +14,8 @@ Run the following command
 #### download the zip file
 go back to the home dir and click on "code" icon on the top right and download.
 
+If you open Project_1_clean.mht file in your web browser :)   
+
 #### 2. Start in Jupyter Notebook
 `cd Tripods_STEMForAll/`  
 `cd project_1`  
