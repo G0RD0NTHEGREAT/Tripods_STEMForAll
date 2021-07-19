@@ -9,9 +9,9 @@ P.S numpy and matplotlib is used in this project, intall using pip or conda :)
 Run the following command
 
 #### 1. Download from git hub
-##### Using git  
+##### A) Using git  
 `git clone https://github.com/G0RD0NTHEGREAT/Tripods_STEMForAll.git`
-#### download the zip file
+#### B) Download the zip file
 go back to the home dir and click on "code" icon on the top right and download.
 
 #### Open Project_1_clean.mht file in your web browser :)   
