@@ -1,5 +1,9 @@
 ## Project 1 (Python Warm up)
-In this project, we will estimate the number $\pi$  
+
+Hello and Welcome. Follow the instruction to get started
+Make sure you have Python3 and Jupyter Notebook install
+
+P.S numpy and matplotlib is used in this project, intall using pip or conda :)
 
 ### Download and start the project in Jupyter Notebook
 Run the following command
