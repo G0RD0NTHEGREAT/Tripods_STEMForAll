@@ -1,7 +1,7 @@
 ## Project 1 (Python Warm up)
 
 Hello and Welcome. Follow the instruction to get started  
-Make sure you have Python3 and Jupyter Notebook install  
+Make sure you have Python3 and Jupyter Notebook installed  
 
 P.S numpy and matplotlib is used in this project, intall using pip or conda :)  
 
