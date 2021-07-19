@@ -1,9 +1,9 @@
 ## Project 1 (Python Warm up)
 
-Hello and Welcome. Follow the instruction to get started
-Make sure you have Python3 and Jupyter Notebook install
+Hello and Welcome. Follow the instruction to get started  
+Make sure you have Python3 and Jupyter Notebook install  
 
-P.S numpy and matplotlib is used in this project, intall using pip or conda :)
+P.S numpy and matplotlib is used in this project, intall using pip or conda :)  
 
 ### Download and start the project in Jupyter Notebook
 Run the following command
