@@ -3,16 +3,16 @@
 
 
 ## Prerequisite:
-Write a function
-Matrix operation
-Working with data structures
-Knowledge with general programming
-Working with Jupyter Notebook
+Write a function  
+Matrix operation  
+Working with data structures  
+Knowledge with general programming  
+Working with Jupyter Notebook  
 
 ## Goal of the python workshop
 Running experiment and document in Jupyter Notebook  
 Project 1  
-Reading and processing dataset  
+Reading and processing dataset    
 Project 2  
 Implementation of Neural Network  
 Back-prop, Gradient descent.   
