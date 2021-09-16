@@ -66,7 +66,7 @@ Estimated Time: 3-4 hour
 
 Given a image apply different matrix operation
 Turn image gray-scale
-Blurring the image 
+Blurring the image  
 [1,1,1]  
 [1,1,1]  
 [1,1,1]  
